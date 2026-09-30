@@ -1,0 +1,21 @@
+# Binarios compilados del backend
+/backend/ramas
+/backend/ramas-server
+
+# Base de datos y logs locales
+*.db
+*.log
+
+# Build del frontend copiado al backend para servirlo
+/backend/web/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# Editor / SO
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store

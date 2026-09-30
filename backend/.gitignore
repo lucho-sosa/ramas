@@ -1,0 +1,4 @@
+/ramas-server
+*.db
+server.log
+/web/
